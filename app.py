@@ -3,9 +3,7 @@ import random
 import sqlite3
 import hashlib
 import os
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
+
 
 # ------------------------------
 # DATABASE SETUP
